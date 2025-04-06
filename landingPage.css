@@ -91,7 +91,6 @@ header .menu-class:hover{
 
 section{
     padding: 2rem 10%;
-    width:100%;
 }
 .home{
     display: flex;
@@ -269,7 +268,7 @@ section{
 }
 .reviews-content .wrapper .reviews-item{
     min-height: 400px;
-    min-width: 350px;
+    max-width: 350px;
     background: rgb(255, 235, 238);
     border: 0.3rem solid rgb(255, 235, 238);
     border-radius: 0.5rem;
