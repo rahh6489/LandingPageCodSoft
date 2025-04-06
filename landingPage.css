@@ -91,6 +91,7 @@ header .menu-class:hover{
 
 section{
     padding: 2rem 10%;
+    width:100%;
 }
 .home{
     display: flex;
